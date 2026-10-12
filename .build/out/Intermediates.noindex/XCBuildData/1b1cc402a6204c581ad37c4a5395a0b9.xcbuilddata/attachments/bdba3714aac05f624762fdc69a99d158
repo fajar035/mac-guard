@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/MacGuardKitTests-primary.dia",
+    "emit-module-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/MacGuardKitTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/MacGuardKitTests-primary-emit-module.dia",
+    "pch" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/MacGuardKitTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/MacGuardKitTests-primary.swiftdeps"
+  },
+  "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Tests/MacGuardKitTests/SecurityTests.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SecurityTests.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SecurityTests.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SecurityTests.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SecurityTests.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SecurityTests.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SecurityTests.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SecurityTests.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SecurityTests~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Tests/MacGuardKitTests/SmokeTests.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SmokeTests.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SmokeTests.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SmokeTests.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SmokeTests.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SmokeTests.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SmokeTests.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SmokeTests.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKitTests-p.build/Objects-normal/arm64/SmokeTests~partial.swiftmodule"
+  }
+}

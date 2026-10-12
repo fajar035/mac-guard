@@ -1,0 +1,13 @@
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/AppScanner.swift
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/CodeSignature.swift
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/Config.swift
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/Detector.swift
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/Heuristics.swift
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/Model.swift
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/PersistenceScanner.swift
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/ProcessScanner.swift
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/Quarantine.swift
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/Reporter.swift
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/Rules.swift
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/Security.swift
+/Users/fajarpratama/test-mac/Sources/MacGuardKit/Util.swift

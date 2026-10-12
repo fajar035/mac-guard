@@ -1,0 +1,4 @@
+module MacGuardKit {
+header "MacGuardKit-Swift.h"
+export *
+}

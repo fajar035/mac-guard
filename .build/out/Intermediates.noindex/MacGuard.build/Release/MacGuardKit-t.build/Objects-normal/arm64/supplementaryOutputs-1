@@ -1,0 +1,12 @@
+{
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/AppScanner.swift" : {
+    "abi-baseline-json" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit.abi.json",
+    "const-values" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary.d",
+    "diagnostics" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary.dia",
+    "objc-header" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-Swift.h",
+    "swiftdoc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit.swiftdoc",
+    "swiftmodule" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit.swiftmodule",
+    "swiftsourceinfo" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit.swiftsourceinfo"
+  }
+}

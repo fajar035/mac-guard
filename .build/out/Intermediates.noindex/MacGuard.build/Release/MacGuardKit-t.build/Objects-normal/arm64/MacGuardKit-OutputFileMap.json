@@ -1,0 +1,76 @@
+{
+  "" : {
+    "const-values" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary.d",
+    "diagnostics" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary.dia",
+    "emit-module-dependencies" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary-emit-module.dia",
+    "pch" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary.swiftdeps"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/AppScanner.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/AppScanner.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/AppScanner.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/AppScanner.o"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/CodeSignature.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/CodeSignature.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/CodeSignature.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/CodeSignature.o"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/Config.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Config.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Config.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Config.o"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/Detector.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Detector.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Detector.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Detector.o"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/Heuristics.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Heuristics.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Heuristics.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Heuristics.o"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/Model.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Model.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Model.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Model.o"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/PersistenceScanner.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/PersistenceScanner.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/PersistenceScanner.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/PersistenceScanner.o"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/ProcessScanner.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/ProcessScanner.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/ProcessScanner.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/ProcessScanner.o"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/Quarantine.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Quarantine.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Quarantine.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Quarantine.o"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/Reporter.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Reporter.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Reporter.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Reporter.o"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/Rules.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Rules.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Rules.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Rules.o"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/Security.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Security.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Security.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Security.o"
+  },
+  "/Users/fajarpratama/Project/mac-guard/Sources/MacGuardKit/Util.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Util.o",
+    "llvm-bc" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Util.bc",
+    "object" : "/Users/fajarpratama/Project/mac-guard/.build/out/Intermediates.noindex/MacGuard.build/Release/MacGuardKit-t.build/Objects-normal/arm64/Util.o"
+  }
+}

@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'macguard-product' in project 'MacGuard'
+➜ Explicit dependency on target 'MacGuardKit-product' in project 'MacGuard'
+➜ Explicit dependency on target 'MacGuardKit' in project 'MacGuard'
+Target 'MacGuardKit-product' in project 'MacGuard'
+➜ Explicit dependency on target 'MacGuardKit' in project 'MacGuard'
+Target 'macguard-product' in project 'MacGuard'
+➜ Explicit dependency on target 'MacGuardKit' in project 'MacGuard'
+Target 'MacGuardKit' in project 'MacGuard' (no dependencies)

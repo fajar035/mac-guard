@@ -1,0 +1,14 @@
+Target dependency graph (5 targets)
+Target 'AllIncludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'MacGuardKitTests-product' in project 'MacGuard'
+➜ Dependency on target 'MacGuardKitTests-product' in project 'MacGuard' via transitive dependency through 'MacGuardKitTests-test-runner'
+➜ Explicit dependency on target 'macguard-product' in project 'MacGuard'
+➜ Explicit dependency on target 'MacGuardKit-product' in project 'MacGuard'
+➜ Explicit dependency on target 'MacGuardKit' in project 'MacGuard'
+Target 'MacGuardKit-product' in project 'MacGuard'
+➜ Explicit dependency on target 'MacGuardKit' in project 'MacGuard'
+Target 'macguard-product' in project 'MacGuard'
+➜ Explicit dependency on target 'MacGuardKit' in project 'MacGuard'
+Target 'MacGuardKitTests-product' in project 'MacGuard'
+➜ Explicit dependency on target 'MacGuardKit' in project 'MacGuard'
+Target 'MacGuardKit' in project 'MacGuard' (no dependencies)

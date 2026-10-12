@@ -1,0 +1,139 @@
+{
+  "" : {
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary.dia",
+    "emit-module-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary-emit-module.dia",
+    "pch" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/MacGuardKit-primary.swiftdeps"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/AppScanner.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/AppScanner.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/AppScanner.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/AppScanner.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/AppScanner.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/AppScanner.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/AppScanner.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/AppScanner.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/AppScanner~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/CodeSignature.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/CodeSignature.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/CodeSignature.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/CodeSignature.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/CodeSignature.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/CodeSignature.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/CodeSignature.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/CodeSignature.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/CodeSignature~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/Config.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Config.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Config.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Config.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Config.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Config.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Config.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Config.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Config~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/Detector.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Detector.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Detector.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Detector.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Detector.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Detector.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Detector.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Detector.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Detector~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/Heuristics.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Heuristics.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Heuristics.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Heuristics.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Heuristics.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Heuristics.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Heuristics.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Heuristics.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Heuristics~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/Model.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Model.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Model.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Model.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Model.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Model.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Model.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Model.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Model~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/PersistenceScanner.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/PersistenceScanner.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/PersistenceScanner.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/PersistenceScanner.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/PersistenceScanner.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/PersistenceScanner.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/PersistenceScanner.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/PersistenceScanner.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/PersistenceScanner~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/ProcessScanner.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/ProcessScanner.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/ProcessScanner.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/ProcessScanner.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/ProcessScanner.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/ProcessScanner.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/ProcessScanner.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/ProcessScanner.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/ProcessScanner~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/Quarantine.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Quarantine.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Quarantine.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Quarantine.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Quarantine.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Quarantine.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Quarantine.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Quarantine.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Quarantine~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/Reporter.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Reporter.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Reporter.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Reporter.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Reporter.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Reporter.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Reporter.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Reporter.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Reporter~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/Rules.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Rules.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Rules.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Rules.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Rules.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Rules.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Rules.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Rules.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Rules~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/Security.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Security.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Security.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Security.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Security.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Security.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Security.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Security.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Security~partial.swiftmodule"
+  },
+  "/Users/fajarpratama/test-mac/Sources/MacGuardKit/Util.swift" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Util.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Util.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Util.dia",
+    "index-unit-output-path" : "/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Util.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Util.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Util.o",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Util.swiftdeps",
+    "swiftmodule" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Debug/MacGuardKit-t.build/Objects-normal/arm64/Util~partial.swiftmodule"
+  }
+}

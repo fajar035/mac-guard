@@ -1,0 +1,16 @@
+{
+  "" : {
+    "const-values" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Release/macguard-p.build/Objects-normal/arm64/macguard-primary.swiftconstvalues",
+    "dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Release/macguard-p.build/Objects-normal/arm64/macguard-primary.d",
+    "diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Release/macguard-p.build/Objects-normal/arm64/macguard-primary.dia",
+    "emit-module-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Release/macguard-p.build/Objects-normal/arm64/macguard-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Release/macguard-p.build/Objects-normal/arm64/macguard-primary-emit-module.dia",
+    "pch" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Release/macguard-p.build/Objects-normal/arm64/macguard-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Release/macguard-p.build/Objects-normal/arm64/macguard-primary.swiftdeps"
+  },
+  "/Users/fajarpratama/test-mac/Sources/macguard/main.swift" : {
+    "index-unit-output-path" : "/MacGuard.build/Release/macguard-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Release/macguard-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/fajarpratama/test-mac/.build/out/Intermediates.noindex/MacGuard.build/Release/macguard-p.build/Objects-normal/arm64/main.o"
+  }
+}

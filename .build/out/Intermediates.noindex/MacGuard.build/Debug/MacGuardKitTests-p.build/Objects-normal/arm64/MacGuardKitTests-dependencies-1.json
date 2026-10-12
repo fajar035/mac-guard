@@ -1,0 +1,381 @@
+[
+  {
+    "isFramework" : true,
+    "moduleName" : "Combine",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/Combine-1E81SKWNJ2IE.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "CoreFoundation",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-1CNDA6MPUBI2S.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "CryptoKit",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/CryptoKit-12DTNVOKK5NZ3.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Darwin",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-BFIW87F5C96D.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Dispatch",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-TO0MPODT1TNY.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Foundation",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-2DAO7R81IDN1Y.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "IOKit",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-VPG84IXDJSHC.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "LocalAuthentication",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/LocalAuthentication-2TQ00O1YYRQCK.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "MacGuardKit",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/Products\/Debug\/MacGuardKit.swiftmodule\/arm64-apple-macos.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "ObjectiveC",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-2DTCYFVRWQ6TE.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Observation",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/Observation-1SNWBGU53730N.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "Swift",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/Swift-NTMBAFPGXUJG.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "SwiftOnoneSupport",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftOnoneSupport-3K31SB8WE3VP3.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "System",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/System-20F3K8ZDXIRSH.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "Testing",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/Testing-35Q5BDRN12Z51.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "XPC",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-1DHEYTTJUVCDO.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_Builtin_float",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-VD2LCKQUQ1AR.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_Concurrency",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_Concurrency-2T6G5KCXTPBOU.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation1",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-2A3F44J1CI2WP.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation2",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-1MNM1UYI85DPF.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation3",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-2EWNYA1LOPG8A.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "_StringProcessing",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_StringProcessing-19LSC2INN71JM.swiftmodule"
+  },
+  {
+    "isFramework" : true,
+    "moduleName" : "_Testing_Foundation",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/Intermediates.noindex\/SwiftExplicitPrecompiledModules\/_Testing_Foundation-3QVGULL2UC1HR.swiftmodule"
+  },
+  {
+    "isFramework" : false,
+    "moduleName" : "os",
+    "modulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/os-37T1U20ITXT9N.swiftmodule"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CFNetwork.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/CFNetwork-8YQ5DXHM9YS6LE50J9MUE1S24.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CFNetwork"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreFoundation.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/CoreFoundation-1TPS9CXH4LKVL658MTAHWMVML.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreFoundation"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/CoreServices.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/CoreServices-BEHH6YMYF8HHIXHVXBMAA4SOP.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "CoreServices"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/Darwin.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/Darwin-3LIOYOUTKLS61CUEPJ3HPX56V.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Darwin"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/DiskArbitration.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/DiskArbitration-7MTL7RDSJFBN9PO3CRSXWENI4.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "DiskArbitration"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/dispatch.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/Dispatch-44K3Q2Y6TVMDF9UTQ0H6IPTYL.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Dispatch"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Foundation.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/Foundation-4LWZ01VCM2R4U82XS8P0TV1PM.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Foundation"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/IOKit.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/IOKit-50RFDRHGCGBV9SU688VJPSMIJ.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "IOKit"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/LocalAuthentication.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/LocalAuthentication-4TQUP2E0V9IU1I805LAY3OS3F.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "LocalAuthentication"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinBasic.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/MachO-2T57OUE0F5NZJOB9E336LRKT9.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "MachO"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/ObjectiveC.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/ObjectiveC-EFHADUP6EM4I0HPP4HKPJ72A.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ObjectiveC"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/System\/Library\/Frameworks\/Security.framework\/Modules\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/Security-DUT37XQ29GQ61PU3LGE79ZMT4.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "Security"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/SwiftShims-3QB0G37BNYYUHJ88JJBU11FHX.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "SwiftShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/xpc.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/XPC-CZYX1RIY2E2VYD9EVSVFVC51O.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "XPC"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation1.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_AvailabilityInternal-7Q99T2K2C4KPRUWFN1KILDQ9H.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_AvailabilityInternal"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_float-9ZUYFLD3Z6GNMOWRWKVFL4AXA.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_float"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_inttypes-7TY80TZNYK5DY3O9BMHQ5HHFI.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_inttypes"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_limits-4MC58X4EIMR5KZ9M76D0SQ43Q.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_limits"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdarg-3KKP7N77KS1674K5LJ7VJNZBM.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdarg"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdatomic-1TSI2YL02V16R14PX0O4FP2Y7.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdatomic"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdbool-Y9S4W3762KC5NNDK2GPQUC4Z.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdbool"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stddef-2LR6BQG7CLDXAR7YTV1A72MHG.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stddef"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_Builtin_stdint-EX3VZ61USEDNEZUJ28RB32K22.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_Builtin_stdint"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation1.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation1-4ICAHXMW0SM1ST1SOBD5S15QM.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation1"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation2.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation2-86U8WNEV6AP59T650M0SY0BQF.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation2"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation3.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_DarwinFoundation3-7DJL03C4D72GEHC44O3Y4MZW8.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_DarwinFoundation3"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/lib\/swift\/shims\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/_SwiftConcurrencyShims-BUBIJ4X0TVQRK0SBF529IYNT1.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "_SwiftConcurrencyShims"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/launch.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/launch-DLB15GF8L59FZM1GV0O3CYFZR.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "launch"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/libDER\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/libDER-38VD9NOSSLJW9FUB54VZERLS9.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "libDER"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/libkern.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/libkern-6HJ57Z7NSJL8867YJ9AK8JTCW.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "libkern"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/os-5O4EA9PTJ7FWD5XPRVRC3LTN9.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/os_object-815Z7TFAYZ1AMSI38TYQP4OIK.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os_object"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/os.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/os_workgroup-8SD2QF3AKN7KYEO388WTGOSLT.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "os_workgroup"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/ptrauth-3VTK8K7LYOKF7SQIY7KB6YQD5.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ptrauth"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/usr\/lib\/clang\/21\/include\/module.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/ptrcheck-A6XN8RTD2A3NZ07NCIO7X8KDG.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "ptrcheck"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/c_standard_library.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/string_h-73E60EIDDKDE3DPY60K7WWRZC.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "string_h"
+  },
+  {
+    "clangModuleMapPath" : "\/Library\/Developer\/CommandLineTools\/SDKs\/MacOSX27.0.sdk\/usr\/include\/DarwinFoundation2.modulemap",
+    "clangModulePath" : "\/Users\/fajarpratama\/test-mac\/.build\/out\/SDKExplicitPrecompiledModules\/sys_types-BGVNLSGLBTQN5AFDP8DEHB7O.pcm",
+    "isBridgingHeaderDependency" : false,
+    "isFramework" : false,
+    "moduleName" : "sys_types"
+  }
+]
